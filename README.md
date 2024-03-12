@@ -1,7 +1,5 @@
 # Emergency-Alarm
 
-Sure, here's a short message for users:
-
 Fire Alarm System
 Welcome to our Fire Alarm System! Our system uses deep learning technology to detect fires in real-time using a webcam feed. To use our system, follow these simple steps:
 
